@@ -81,9 +81,9 @@ La empresa desea simplificar este proceso para que las interfaces externas pueda
 - agendarAtencionCompleta()
 sin conocer los detalles internos de cada módulo.
 
-A) En base al código entregado en el proyecto Pregunta2Solucion, indique dos principios de ingeniería se software que considera que no se están cumpliedo, sustentando el por qué. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta3Solucion. 
-B) Determinar qué patrón de diseño estructural debe aplicar para mejorar la arquitectura del sistema. Sustentar el por qué de su respuesta. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta3Solucion.
-C) Modifique la solución en Java que implemente el patrón elegido. Debe hacerlo directamente en el proyecto que se le ha entregado (Pregunta3Solucion).
+- **A)** En base al código entregado en el proyecto Pregunta2Solucion, indique dos principios de ingeniería se software que considera que no se están cumpliedo, sustentando el por qué. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta3Solucion. 
+- **B)** Determinar qué patrón de diseño estructural debe aplicar para mejorar la arquitectura del sistema. Sustentar el por qué de su respuesta. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta3Solucion.
+- **C)** Modifique la solución en Java que implemente el patrón elegido. Debe hacerlo directamente en el proyecto que se le ha entregado (Pregunta3Solucion).
 
 ---
 
@@ -100,7 +100,7 @@ El problema actual es que la clase principal GestorDeSesiones contiene múltiple
 
 La escuela desea reestructurar el sistema para que cada tipo de sede sea responsable de crear su propio plan de sesión, sin que la lógica principal deba conocer las clases concretas que se instancian.
 
-A) En base al código entregado en el proyecto Pregunta4Solucion, indique dos principios de ingeniería se software que considera que no se están cumpliedo, sustentando el por qué. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta4Solucion.
-B) ¿Qué patrón de diseño creacional considera más adecuado para resolver el problema? Justifique su elección explicando qué problema concreto del caso resuelve el patrón seleccionado. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta4Solucion.
-C)  Corrija la implementación del código que se le entrega, siguiendo el patrón definido. Debe hacerlo directamente en el proyecto que se le ha entregado, Pregunta4Solucion. 
+- **A)** En base al código entregado en el proyecto Pregunta4Solucion, indique dos principios de ingeniería se software que considera que no se están cumpliedo, sustentando el por qué. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta4Solucion.
+- **B)** ¿Qué patrón de diseño creacional considera más adecuado para resolver el problema? Justifique su elección explicando qué problema concreto del caso resuelve el patrón seleccionado. Su respuesta ponerla en el archivo README.md que se encuentra dentro del proyecto Pregunta4Solucion.
+- **C)** Corrija la implementación del código que se le entrega, siguiendo el patrón definido. Debe hacerlo directamente en el proyecto que se le ha entregado, Pregunta4Solucion. 
 
